@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm nizwan a.k.a zwan</h1>
+<h1 align="center">Hi 👋, I'm nizwan a.k.a z</h1>
 <h3 align="center">Informatics student building useful apps, web systems, and accessible technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizwan10&label=Profile%20views&color=0e75b6&style=flat" alt="nizwan10" /> </p>
